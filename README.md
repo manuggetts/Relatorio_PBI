@@ -38,6 +38,21 @@ Todos os gráficos são interativos, permitindo filtrar uns aos outros e visuali
 
 ![interatividade](https://github.com/manuggetts/Relatorio_PBI/assets/141872152/42f797cf-41d4-4ddb-9cea-fd806c99db76)
 
+## Layout no Figma
+
+O layout e a interface visual deste projeto foram desenvolvidos no Figma, garantindo uma apresentação visualmente atraente e coerente.
+O SVG deste layout está disponível nos arquivos deste repositório.
+
+![Layout](https://github.com/manuggetts/Relatorio_PBI/assets/141872152/ed8e95f1-dcc7-4483-bbee-b39d5ce55db3)
+
+### Paleta de cores dos cards
+
+Hexadecimal                                                      |
+---------------------------------------------------------------- |
+![#48AECE](https://via.placeholder.com/10/48AECE?text=+) #48AECE |
+![#68ACBB](https://via.placeholder.com/10/68ACBB?text=+) #68ACBB |
+![#23486A](https://via.placeholder.com/10/23486A?text=+) #23486A |
+
 ## Contribuindo
 
 Contribuições são bem-vindas! Se você encontrar algum problema nos dados ou tiver sugestões para melhorar as análises ou a visualização dos resultados, fique à vontade para abrir uma [issue](https://github.com/manuggetts/Relatorio_PBI/issues) ou enviar um [pull request](https://github.com/manuggetts/Relatorio_PBI/pulls). 
