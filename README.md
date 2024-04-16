@@ -2,10 +2,6 @@
 
 Este relatório foi elaborado para oferecer insights valiosos sobre as operações de vendas de uma empresa fictícia. Através de análises detalhadas e visualizações intuitivas, gestores, analistas e tomadores de decisão podem entender melhor o desempenho das vendas, identificar tendências e tomar decisões informadas.
 
-<p align="center">
-  <img src="https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png" alt="Logo">
-</p>
-
 ![projetopadrao](https://github.com/manuggetts/Relatorio_PBI/assets/141872152/a8402329-870b-400d-b4e1-206f6bbe6205)
 
 ## Importação e Tratamento dos Dados no Power Query
