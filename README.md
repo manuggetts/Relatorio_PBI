@@ -34,10 +34,10 @@ Todos os gráficos são interativos, permitindo filtrar uns aos outros e visuali
 
 ![interatividade](https://github.com/manuggetts/Relatorio_PBI/assets/141872152/42f797cf-41d4-4ddb-9cea-fd806c99db76)
 
-## Layout no Figma
+## Layout no Figma 🎨
 
 O layout e a interface visual deste projeto foram desenvolvidos no Figma, garantindo uma apresentação visualmente atraente e coerente.
-O SVG deste layout está disponível nos arquivos deste repositório.
+O SVG deste layout está disponível nos arquivos deste repositório, dentro da pasta SVG.
 
 ![Layout](https://github.com/manuggetts/Relatorio_PBI/assets/141872152/ed8e95f1-dcc7-4483-bbee-b39d5ce55db3)
 
