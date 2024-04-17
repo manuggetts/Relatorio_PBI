@@ -58,7 +58,8 @@ Contribuições são bem-vindas! Se você encontrar algum problema nos dados ou 
 Obrigada por ajudar a melhorar este projeto!
 
 ## Fonte de dados
-Os dados utilizados neste projeto foram fornecidos pela [Hashtag Treinamentos.](https://www.hashtagtreinamentos.com)
+
+Os dados utilizados neste dashboard foram fornecidos pela empresa [Hashtag Treinamentos](https://www.hashtagtreinamentos.com) e são exclusivos para fins educacionais.
 
 <p align="center">
   <img src="https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png" alt="Logo">
