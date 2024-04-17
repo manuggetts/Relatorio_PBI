@@ -2,7 +2,7 @@
 
 Este relatório foi elaborado para oferecer insights valiosos sobre as operações de vendas de uma empresa fictícia. Através de análises detalhadas e visualizações intuitivas, gestores, analistas e tomadores de decisão podem entender melhor o desempenho das vendas, identificar tendências e tomar decisões informadas.
 
-*Você pode acessar este relatório online sem precisar baixar o Power BI [aqui](https://app.powerbi.com/view?r=eyJrIjoiZDM3OGFjNTgtMDlhMi00ZmJiLTk3ZWEtM2EzMGYzZjFjYTAyIiwidCI6ImMzMDM2NTdiLWUzMDYtNGYzNi05OWUxLTc5ZDg3Yzg3NTQ4NiJ9).*
+*OBS: Você pode acessar este relatório online sem precisar baixar o Power BI [aqui](https://app.powerbi.com/view?r=eyJrIjoiZDM3OGFjNTgtMDlhMi00ZmJiLTk3ZWEtM2EzMGYzZjFjYTAyIiwidCI6ImMzMDM2NTdiLWUzMDYtNGYzNi05OWUxLTc5ZDg3Yzg3NTQ4NiJ9).*
 
 ![projetopadrao](https://github.com/manuggetts/Relatorio_PBI/assets/141872152/a8402329-870b-400d-b4e1-206f6bbe6205)
 
